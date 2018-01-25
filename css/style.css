@@ -1,0 +1,10 @@
+body {
+	background-color:darkturquoise;
+	margin: 0 auto;
+	}
+.caja1{
+	width:100px;
+	height:100px;
+	padding:10px;
+	background-color:grey;
+	}
